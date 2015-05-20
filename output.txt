@@ -1,0 +1,1 @@
+{"mac_address":"12 01 GG 45 BJ 55 AA","last_seen_date":"2015-04-15T20:06:28.726502Z"}
